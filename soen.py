@@ -1,3 +1,4 @@
+#1
 number=int(input())
 output=''
 even=''
@@ -14,6 +15,7 @@ while a:
 output=output+even
 print(output)
 
+#2
 number1=int(input())
 output1=''
 times=len(str(number1))
